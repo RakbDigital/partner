@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "168,55,109",
+                        "endColumns": "63,53,58",
+                        "endOffsets": "227,104,163"
+                    },
+                    "to": {
+                        "startLines": "2,3,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,448",
+                        "endColumns": "63,53,58",
+                        "endOffsets": "114,168,502"
+                    }
+                },
+                {
+                    "source": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/src/main/res/values/multiimagechooser_strings_en.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "821,864,275,197,637,716,136,484,555,393",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "859,895,388,270,711,816,192,550,632,479"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "173,216,252,370,507,586,691,752,823,905",
+                        "endColumns": "42,35,117,77,78,104,60,70,81,90",
+                        "endOffsets": "211,247,365,443,581,686,747,818,900,991"
+                    }
+                },
+                {
+                    "source": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "124"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "996",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "1065"
+                    }
+                }
+            ]
+        }
+    ]
+}

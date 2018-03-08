@@ -1,0 +1,4 @@
+#Wed Mar 07 21:43:51 CST 2018
+base.0=/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/build/intermediates/transforms/dex/release/0
+renamed.0=classes.dex
+file.0=/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex

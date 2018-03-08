@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/Users/home/Documents/GitHub/MobileStylerPartner/platforms/android/app/src/main/res/values-de/multiimagechooser_strings_de.xml",
+                    "from": {
+                        "startLines": "10,11,4,3,8,9,2,6,7,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "777,823,217,116,573,660,55,401,477,317",
+                        "endColumns": "45,35,99,100,86,116,60,75,95,83",
+                        "endOffsets": "818,854,312,212,655,772,111,472,568,396"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,101,137,237,338,425,542,603,679,775",
+                        "endColumns": "45,35,99,100,86,116,60,75,95,83",
+                        "endOffsets": "96,132,232,333,420,537,598,674,770,854"
+                    }
+                }
+            ]
+        }
+    ]
+}

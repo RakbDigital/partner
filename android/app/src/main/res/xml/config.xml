@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mobilestylerllc.cosmetologist" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>MS Cosmetologist</name>
+    <description>Cosmetologist app for MobileStyler</description>
+    <author email="mobilestylerapp@gmail.com" href="http://mobilestyler.com/">MobileStyler LLC</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation href="http://192.168.0.103:8100" />
+    <allow-navigation href="http://172.17.13.237:8100" />
+    <allow-intent href="market:*" />
+    <icon density="ldpi" src="resources/android/icon/icon.png" />
+    <icon density="mdpi" src="resources/android/icon/icon.png" />
+    <icon density="hdpi" src="resources/android/icon/icon.png" />
+    <icon density="xhdpi" src="resources/android/icon/icon.png" />
+    <icon density="xxhdpi" src="resources/android/icon/icon.png" />
+    <icon density="xxxhdpi" src="resources/android/icon/icon.png" />
+    <splash density="land-ldpi" src="resources/android/splash/splash.png" />
+    <splash density="land-mdpi" src="resources/android/splash/splash.png" />
+    <splash density="land-hdpi" src="resources/android/splash/splash.png" />
+    <splash density="land-xhdpi" src="resources/android/splash/splash.png" />
+    <splash density="land-xxhdpi" src="resources/android/splash/splash.png" />
+    <splash density="land-xxxhdpi" src="resources/android/splash/splash.png" />
+    <splash density="port-ldpi" src="resources/android/splash/splash.png" />
+    <splash density="port-mdpi" src="resources/android/splash/splash.png" />
+    <splash density="port-hdpi" src="resources/android/splash/splash.png" />
+    <splash density="port-xhdpi" src="resources/android/splash/splash.png" />
+    <splash density="port-xxhdpi" src="resources/android/splash/splash.png" />
+    <splash density="port-xxxhdpi" src="resources/android/splash/splash.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="ScrollEnabled" value="false" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="FadeSplashScreenDuration" value="1000" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="ShowSplashScreen" value="true" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="loadUrlTimeoutValue" value="700000" />
+    <preference name="AutoHideSplashScreen" value="false" />
+</widget>
